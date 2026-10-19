@@ -88,6 +88,6 @@
 ---
 
 <p align="center">
-  <sub>还在学习，也一直在做。</sub><br />
+  <sub>路漫漫其修远兮，吾将上下而求索。</sub><br />
   <sub><a href="mailto:1269442069@qq.com">1269442069@qq.com</a> · <a href="https://github.com/aurorasgod">@aurorasgod</a></sub>
 </p>
