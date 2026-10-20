@@ -1,4 +1,22 @@
-# Header artwork
+# Profile artwork
+
+The current profile uses `p5/header.png` and the matching section labels,
+project markers, tool icons, navigation controls, and footer in `p5/`.
+The layout uses diagonal typography, spot red, ink separations, and localized
+screen tones inspired by Persona 5. Body copy remains native Markdown / HTML.
+
+Rebuild with Pillow, fonttools, and Windows fonts:
+
+```sh
+python tools/render_profile.py --font-dir C:/Windows/Fonts
+```
+
+All lettering in the SVG assets is converted to paths for consistent rendering.
+Lucide icon data is stored in `p5/icons.json`; its license is included in
+`p5/LUCIDE-LICENSE.txt`. To update it from a local `@lucide/astro` installation,
+pass `--import-lucide /path/to/node_modules/@lucide/astro` when rebuilding.
+
+## Earlier header
 
 `header-persona.png` is a personal, unofficial Persona 5-inspired collage.
 Typography, composition, halftone pattern, and print treatment are produced by
