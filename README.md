@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.png" alt="Laplace. From signals to systems. Robotics, control and code." width="100%" />
+  <img src="./assets/header-persona.png" alt="Laplace / @aurorasgod - a Persona 5-inspired paper-cut collage with Joker." width="100%" />
 </p>
 
 <h1 align="center">严淇迈 <sub>/ Qimai Yan</sub></h1>
